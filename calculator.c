@@ -33,4 +33,13 @@ int main() {
                 result = num1 / num2;
                 printf("Result = %.2f", result);
             } else {
-                printf("Error! Division by
+                printf("Error! Division by 
+zero.");
+         }
+         break;
+        
+        default:
+           printf("Invalid operator");
+}
+return 0;
+}
