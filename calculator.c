@@ -33,8 +33,7 @@ int main() {
                 result = num1 / num2;
                 printf("Result = %.2f", result);
             } else {
-                printf("Error! Division by 
-zero.");
+                printf("Error! Division by zero.");
          }
          break;
         
