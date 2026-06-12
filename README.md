@@ -7,6 +7,10 @@ I have made a basic ,simple calculator using c programming . This calculator can
 * Subtraction 
 * Multiplication 
 * Division 
+* Square root
+* logrithm
+* Modulus 
+* power
 
 I have used __switch,break__ mechanism in this ie
 ```
@@ -27,5 +31,7 @@ printf("Invalid choice");
 }
 
 ```
+
+I have also provided looping system therefore the person can compute as many numbers as they want.
 
 Thankyou for reading 
